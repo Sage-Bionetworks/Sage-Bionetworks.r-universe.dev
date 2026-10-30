@@ -2,6 +2,6 @@
   {
     "package": "synapser",
     "url": "https://github.com/Sage-Bionetworks/synapser",
-    "branch": "*release"
+    "branch": "SYNR-1649-upgrade-pythonclient-4-14"
   }
 ]
